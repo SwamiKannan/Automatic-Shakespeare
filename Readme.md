@@ -1,4 +1,9 @@
 # Next character prediction: Shakespeare
+
+<p align="center">
+<img src="https://github.com/SwamiKannan/Automatic-Shakespeare/blob/main/cover.jpg"
+</p>
+
 ## Data:
 The data consists of 39 Shakespeare plays and plays written by other Elizabethan-era playwrights, all of which were downloaded as .txt files directly from Project Gutenberg.
 The data only contains all the plays of Shakespeare without any labels
